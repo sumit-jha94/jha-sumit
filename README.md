@@ -21,9 +21,12 @@ Icons generated from - https://shields.io/ -->
 
 
 <!-- Most Languages Used -->
-<div>  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumit-jha94&layout=compact" />
-</div>
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumit-jha94&layout=compact" /> ![Sumit Jha github stats](https://github-readme-stats.vercel.app/api?username=sumit-jha94&hide=["issues"]&show_icons=true)
+
+
+  
+
 
 
 <!-- PROFILE VIEW COUNTER -->
@@ -33,3 +36,5 @@ Icons generated from - https://shields.io/ -->
 <h2 align="centre"> <p color="red">  Profile View Counter </p> </h2/
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=sumit-jha94&label=Profile%20views&color=0e75b6&style=flat" alt="Sumit Jha" /> </p>
+
+
