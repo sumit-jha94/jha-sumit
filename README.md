@@ -4,11 +4,16 @@
 
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
 
-[![Linkedin Badge]([https://img.shields.io/badge/-harshkumarkhatri-blue]?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/harshkumarkhatri/)](https://www.linkedin.com/in/harshkumarkhatri/) 
+<!-- Github link - https://github.com/harshkumarkhatri/harshkumarkhatri
+
+Icons generated from - https://shields.io/ -->
 
 
+[![Linkedin Badge](https://img.shields.io/badge/-sumitkumarjha-blue?style=flat-square&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/sumitkumarjha/)](https://www.linkedin.com/in/sumitkumarjha/)  [![Gmail Badge](https://img.shields.io/badge/-sumitshine14%40gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mailharshkhatri@gmail.com)](mailto:mailharshkhatri@gmail.com)
 
-[![Gmail Badge](https://img.shields.io/badge/-mailharshkhatri@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mailharshkhatri@gmail.com)](mailto:mailharshkhatri@gmail.com)
+<!-- [![Gmail Badge](https://img.shields.io/badge/-mailharshkhatri@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mailharshkhatri@gmail.com)](mailto:mailharshkhatri@gmail.com) -->
+
+<hr/>
 
 :smile: for the REACTJS 
 
