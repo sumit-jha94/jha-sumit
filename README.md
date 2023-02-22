@@ -9,9 +9,9 @@
 Icons generated from - https://shields.io/ -->
 
 
-[![Linkedin Badge](https://img.shields.io/badge/-sumitkumarjha-blue?style=flat-square&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/sumitkumarjha/)](https://www.linkedin.com/in/sumitkumarjha/)  [![Gmail Badge](https://img.shields.io/badge/-sumitshine14%40gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mailharshkhatri@gmail.com)](mailto:mailharshkhatri@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-sumitkumarjha-blue?style=flat-square&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/sumitkumarjha/)](https://www.linkedin.com/in/sumitkumarjha/)  [![Gmail Badge](https://img.shields.io/badge/-sumitshine14%40gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sumitshine14@gmail.com)](mailto:sumitshine14@gmail.com)
 
-<!-- [![Gmail Badge](https://img.shields.io/badge/-mailharshkhatri@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mailharshkhatri@gmail.com)](mailto:mailharshkhatri@gmail.com) -->
+
 
 <hr/>
 
